@@ -147,7 +147,7 @@ font-family: 'Courier New', Courier, monospace;
 color : black;
 outline: 0;
 border: 0;
-font-size: 15px;
+font-size: 14px;
 cursor: pointer;
 &:hover{
   background-color: rgb(237, 244, 246);
